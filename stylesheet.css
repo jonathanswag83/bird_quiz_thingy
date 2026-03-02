@@ -1,0 +1,12 @@
+body {
+    background-color: lightgray;
+}
+
+#birdholder {
+    display: grid;
+    width: 1200px;
+    height: auto;
+    padding: 10px;
+    background-color: aliceblue;
+    grid-template-columns: 1fr 1fr;
+}

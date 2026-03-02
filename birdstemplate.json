@@ -1,0 +1,32 @@
+{
+    "bird" : [
+        {
+            "name": ["Eurasian Bullfinch", "common Bullfinch"],
+            "latin": "Pyrrhula pyrrhula",
+            "male": { 
+                "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bullfinch_male.jpg/1920px-Bullfinch_male.jpg",
+                "license": "CC-BY-SA-3.0",
+                "license_holder": "Francis C. Franklin"
+            },
+            "female" : { 
+                "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pyrrhula_pyrrhula_female_2.jpg/1920px-Pyrrhula_pyrrhula_female_2.jpg",
+                "license": "CC-BY-SA-3.0",
+                "license_holder": "Francis C. Franklin"
+            }
+        },
+        {
+            "name": ["Mandarin Duck"],
+            "latin": "Aix galericulata",
+            "male": { 
+                "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mandarin_duck_%28Aix_galericulata%29.jpg/3840px-Mandarin_duck_%28Aix_galericulata%29.jpg",
+                "license": "CC BY 4.0",
+                "license_holder": "Alexis Lours"
+            },
+            "female" : { 
+                "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mandarin_ducks_by_the_Weiming_Lake_of_Peking_University_09.jpg/1920px-Mandarin_ducks_by_the_Weiming_Lake_of_Peking_University_09.jpg?_=20251001231031",
+                "license": "CC BY-SA 4.0",
+                "license_holder": "星外之神"
+            }
+        }
+    ]
+}   
